@@ -82,7 +82,7 @@ Les backups sont enregistrées dans un dossier `/backups` sous forme de fichiers
 
 ## 📸 Aperçu
 
-![Interface backup Discord](./assets/screenshot_backup_embed.png)
+[![Interface backup Discord](./assets/screenshot_backup_embed.png)](https://media.discordapp.net/attachments/1379845939279302826/1383734190045921340/image.png?ex=684fde63&is=684e8ce3&hm=fbc4f8885b2ddcbaaf7a31a04b5db1b0f4980966c0d40f66d1e31c1cbeb80639&=&format=webp&quality=lossless)
 
 ---
 
